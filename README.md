@@ -37,6 +37,8 @@ pip install -r requirements.txt
 
 ![Captura de pantalla 2024-01-29 134358](https://github.com/JoansebHM/WhatsAppMsgSender/assets/113460982/f4eaaf7c-d436-4f5b-b753-f2d08a86e228)
 ![Captura de pantalla 2024-01-29 135631](https://github.com/JoansebHM/WhatsAppMsgSender/assets/113460982/6e2b07a8-94a9-48a1-8d42-41e14394484a)
+![WhatsApp Image 2024-01-29 at 2 17 38 PM](https://github.com/JoansebHM/WhatsAppMsgSender/assets/113460982/f85ec98a-a860-4b9b-ba0d-1510d4f6396b)
+
 
 
 
